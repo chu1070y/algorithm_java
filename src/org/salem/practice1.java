@@ -15,7 +15,7 @@ public class practice1 {
 	
 	
 	public static void main(String[] args) {
-		System.out.println("´ç½ÅÀÇ Á¤´äÀº???");
+		System.out.println("ë‹¹ì‹ ì˜ ì •ë‹µì€??");
 		System.out.println(calc(10000000,9,13000000));
 		System.out.println(calc(1000000,3,1000000));
 	}
